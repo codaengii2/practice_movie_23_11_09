@@ -13,3 +13,8 @@
 [x] npm i styled-reset
 [x] npm i styled-components
 [x] npm i react-hook-form
+
+## todo
+
+[] router 설정(components, pages 등)
+[] api 설정
