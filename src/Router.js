@@ -5,6 +5,7 @@ import { Detail } from "./pages/detail/Detail";
 import { Search } from "./pages/search/Search";
 import { Header } from "./components/Header";
 import { Footer } from "./components/Footer";
+import { Home } from "./pages/home/Home";
 
 export const Router = () => {
   return (

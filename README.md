@@ -1,7 +1,7 @@
 ## npm list
 
-[] npm i react-router-dom
-[]
+[x] npm i react-router-dom
+[] fontawesome
 
 - npm i --save @fortawesome/fontawesome-svg-core
 - npm i --save @fortawesome/free-solid-svg-icons
@@ -10,6 +10,6 @@
 - npm i --save @fortawesome/react-fontawesome@latest
 
 [] npm i react-helmet
-[] npm i styled-reset
-[] npm i styled-components
-[] npm i react-hook-form
+[x] npm i styled-reset
+[x] npm i styled-components
+[x] npm i react-hook-form
